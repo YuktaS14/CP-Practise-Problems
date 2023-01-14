@@ -1,0 +1,1 @@
+{"name":"Local: squareRootDecomposition","url":"/home/yukta/Documents/CPP/Practise/squareRootDecomposition.cpp","tests":[{"id":1673081043082,"input":"9\n1 5 -2 6 8 -7 2 1 11\n2\n1 6\n2 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/yukta/Documents/CPP/Practise/squareRootDecomposition.cpp","group":"local","local":true}
